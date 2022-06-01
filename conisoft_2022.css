@@ -1,0 +1,3184 @@
+/*
+	@name conisoft_2022
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_conisoft_editions_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4546px;
+}
+
+#_bg__conisoft_editions_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4546px;
+	background:rgba(255,255,255,1);
+}
+
+
+#fondo_total {
+	top: 81px;
+	left: 1px;
+	width: 1920px;
+	height: 4465px;
+	background:rgba(4,25,62,1);
+}
+
+
+#fondo_encabezado {
+	top: 113px;
+	left: 31px;
+	width: 1861px;
+	height: 857px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#sponsors {
+	top: 3670px;
+	left: 28px;
+	width: 1866px;
+	height: 1017px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 1872px;
+	height: 1023px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_21 {
+	top: 413px;
+	left: 367px;
+	width: 218.67px;
+	height: 272px;
+}
+
+
+#image_24 {
+	top: 452px;
+	left: 1582px;
+	width: 152.58px;
+	height: 233px;
+}
+
+
+#image_25 {
+	top: 715px;
+	left: 130px;
+	width: 569.52px;
+	height: 161px;
+}
+
+
+#image_26 {
+	top: 715px;
+	left: 739px;
+	width: 574.38px;
+	height: 161px;
+}
+
+
+#image_27 {
+	top: 715px;
+	left: 1335px;
+	width: 399.44px;
+	height: 161px;
+}
+
+
+#image_20 {
+	top: 413px;
+	left: 130px;
+	width: 185.63px;
+	height: 272px;
+}
+
+
+#image_19 {
+	top: 143px;
+	left: 1582px;
+	width: 136.06px;
+	height: 228px;
+}
+
+
+#image_18 {
+	top: 147px;
+	left: 1185px;
+	width: 351.82px;
+	height: 229px;
+}
+
+
+#image_17 {
+	top: 143px;
+	left: 874px;
+	width: 241.02px;
+	height: 233px;
+}
+
+
+#image_16 {
+	top: 147px;
+	left: 367px;
+	width: 218.67px;
+	height: 224px;
+}
+
+
+#image_15 {
+	top: 143px;
+	left: 656px;
+	width: 136.06px;
+	height: 224px;
+}
+
+
+#image_13 {
+	top: 143px;
+	left: 147px;
+	width: 151.61px;
+	height: 228px;
+}
+
+
+#image_22 {
+	top: 473px;
+	left: 1185px;
+	width: 351.82px;
+	height: 212px;
+}
+
+
+#image_23 {
+	top: 443px;
+	left: 701px;
+	width: 380.98px;
+	height: 242px;
+}
+
+
+#sponsors_ek1 {
+	top: 21px;
+	left: 550px;
+	width: 780.48px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#04193E;
+}
+
+#barra_de_opciones {
+	top: 0px;
+	left: 1px;
+	width: 1920px;
+	height: 103px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 100px;
+	border: 1px solid #000000;
+	background:rgba(4.42,25.16,61.62,1);
+}
+
+
+#_conisoft_editions__ {
+	top: 36px;
+	left: 1543px;
+	width: 373px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_committes__ {
+	top: 34px;
+	left: 1305px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_registration__ {
+	top: 34px;
+	left: 1072px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_welcome__ {
+	top: 34px;
+	left: 844px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_image_10 {
+	top: 5px;
+	left: 0px;
+	width: 95px;
+	height: 93px;
+}
+
+
+#fondo_cuerpo {
+	top: 1005px;
+	left: 31px;
+	width: 1866px;
+	height: 2635px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#encabezado {
+	top: 154px;
+	left: 87px;
+	width: 1770px;
+	height: 748px;
+}
+
+#venue_of_conisoft_2022 {
+	top: 0px;
+	left: -11px;
+	width: 794px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_28 {
+	top: 30px;
+	left: 877px;
+	width: 893px;
+	height: 673px;
+}
+
+
+#conisoft_2022_is_hosted_by_universidad_tecnol_gica_biling_e_internacional_y_sustentable_de_puebla_boulevard_audi_sur_s_n__ciudad_modelo__san_jos__chiapa__puebla__m_xico__75010_website__https___utbispuebla_edu_mx_tel__276_690_6500_email__conisoft2022_utbispuebla_edu_mx {
+	top: 135px;
+	left: 9px;
+	width: 868px;
+	height: 641px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_30 {
+	top: 1018px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_31 {
+	top: 1622px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_32 {
+	top: 1320px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_34 {
+	top: 2226px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_35 {
+	top: 2528px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_36 {
+	top: 2830px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_57 {
+	top: 3389px;
+	left: 921px;
+	width: 570px;
+	height: 244px;
+}
+
+
+#image_37 {
+	top: 3132px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_33 {
+	top: 1924px;
+	left: 919px;
+	width: 574px;
+	height: 271px;
+}
+
+
+#image_47 {
+	top: 2172px;
+	left: -771px;
+	width: 2635px;
+	height: 301px;
+}
+
+
+#_image_38 {
+	top: 1104px;
+	left: 428px;
+	width: 230px;
+	height: 221px;
+}
+
+
+#arrow_1 {
+	top: 1214px;
+	left: 717px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_5 {
+	top: 2361px;
+	left: 707px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_4 {
+	top: 2071px;
+	left: 717px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_2 {
+	top: 1498px;
+	left: 717px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_3 {
+	top: 1784px;
+	left: 717px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#_image_39 {
+	top: 1384px;
+	left: 428px;
+	width: 230px;
+	height: 227.12px;
+}
+
+
+#_image_40 {
+	top: 1670px;
+	left: 428px;
+	width: 230px;
+	height: 227.53px;
+}
+
+
+#_image_41 {
+	top: 1957px;
+	left: 428px;
+	width: 230px;
+	height: 227.11px;
+}
+
+
+#_image_42 {
+	top: 2243px;
+	left: 428px;
+	width: 230px;
+	height: 225.9px;
+}
+
+
+#_image_43 {
+	top: 2528px;
+	left: 428px;
+	width: 230px;
+	height: 226.71px;
+}
+
+
+#_image_44 {
+	top: 2814px;
+	left: 428px;
+	width: 230px;
+	height: 227.53px;
+}
+
+
+#_image_45 {
+	top: 3101px;
+	left: 428px;
+	width: 230px;
+	height: 224.71px;
+}
+
+
+#_image_46 {
+	top: 3385px;
+	left: 428px;
+	width: 230px;
+	height: 225.88px;
+}
+
+
+#arrow_6 {
+	top: 2663px;
+	left: 707px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_7 {
+	top: 2966px;
+	left: 707px;
+	width: 183px;
+	height: 0px;
+}
+
+
+#arrow_8 {
+	top: 3246px;
+	left: 717px;
+	width: 173px;
+	height: 0px;
+}
+
+
+#arrow_9 {
+	top: 3498px;
+	left: 717px;
+	width: 185px;
+	height: 0px;
+}
+
+#page_commites_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 14262px;
+}
+
+#_bg__commites_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 14262px;
+	background:rgba(255,255,255,1);
+}
+
+
+#fondo_total_ek1 {
+	top: 77px;
+	left: 0px;
+	width: 1920px;
+	height: 14185px;
+	background:rgba(4,25,62,1);
+}
+
+
+#fondo_encabezado_ek1 {
+	top: 109px;
+	left: 30px;
+	width: 1861px;
+	height: 13216px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+
+#committes {
+	top: 129px;
+	left: 75px;
+	width: 351px;
+	height: 128.73px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_28_ek1 {
+	top: 205px;
+	left: 1275px;
+	width: 600px;
+	height: 553px;
+}
+
+
+#general_chair___reyes_ju_rez_ram_rez___uabc__m_xico__co_chair___mtro__jes_s_alfonso_cruz_valencia___universidad_tecnol_gica_biling_e_internacional_y_sustentable_de_puebla_co_chair___c_sar_jes_s_pardo_calvache___universidad_del_cauca {
+	top: 280px;
+	left: 86px;
+	width: 978px;
+	height: 516px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#reminder {
+	top: 867px;
+	left: 109px;
+	width: 1701px;
+	height: 106px;
+}
+
+#cuadro_recordatorio {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#conisoft_standing_committe {
+	top: 35px;
+	left: 608px;
+	width: 498px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#reminder_ek1 {
+	top: 1775px;
+	left: 109px;
+	width: 1701px;
+	height: 106px;
+}
+
+#cuadro_recordatorio_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#conisoft_steering_committe {
+	top: 35px;
+	left: 611px;
+	width: 492px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#reminder_ek2 {
+	top: 3588px;
+	left: 109px;
+	width: 1701px;
+	height: 106px;
+}
+
+#cuadro_recordatorio_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#conisoft_reviewers_committe {
+	top: 35px;
+	left: 600px;
+	width: 514px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_29 {
+	top: 991px;
+	left: 109px;
+	width: 1587px;
+	height: 734px;
+}
+
+
+#image_30_ek1 {
+	top: 1931px;
+	left: 86px;
+	width: 1558px;
+	height: 1591px;
+}
+
+
+#image_33_ek1 {
+	top: 471px;
+	left: 1021px;
+	width: 240px;
+	height: 79px;
+}
+
+
+#image_36_ek1 {
+	top: 1275px;
+	left: 1696px;
+	width: 107px;
+	height: 83px;
+}
+
+
+#image_37_ek1 {
+	top: 1439px;
+	left: 1663px;
+	width: 173px;
+	height: 51px;
+}
+
+
+#image_41_ek1 {
+	top: 2150px;
+	left: 1694px;
+	width: 116px;
+	height: 112px;
+}
+
+
+#image_42_ek1 {
+	top: 2268px;
+	left: 1707px;
+	width: 103px;
+	height: 118px;
+}
+
+
+#image_45_ek1 {
+	top: 2615px;
+	left: 1700px;
+	width: 103px;
+	height: 118px;
+}
+
+
+#image_43_ek1 {
+	top: 2392px;
+	left: 1708px;
+	width: 88px;
+	height: 106px;
+}
+
+
+#image_44_ek1 {
+	top: 2504px;
+	left: 1694px;
+	width: 106px;
+	height: 105px;
+}
+
+
+#image_46_ek1 {
+	top: 2790px;
+	left: 1677px;
+	width: 139px;
+	height: 43px;
+}
+
+
+#image_47_ek1 {
+	top: 2906px;
+	left: 1623px;
+	width: 247px;
+	height: 67px;
+}
+
+
+#image_48 {
+	top: 2998px;
+	left: 1690px;
+	width: 106px;
+	height: 127px;
+}
+
+
+#image_50 {
+	top: 3279px;
+	left: 1644px;
+	width: 201px;
+	height: 86px;
+}
+
+
+#image_51 {
+	top: 3415px;
+	left: 1670px;
+	width: 126px;
+	height: 148px;
+}
+
+
+#image_31_ek1 {
+	top: 1126px;
+	left: 1695px;
+	width: 93px;
+	height: 111px;
+}
+
+
+#image_40_ek1 {
+	top: 2032px;
+	left: 1704px;
+	width: 93px;
+	height: 111px;
+}
+
+
+#image_32_ek1 {
+	top: 277px;
+	left: 834px;
+	width: 93px;
+	height: 111px;
+}
+
+
+#image_34_ek1 {
+	top: 642px;
+	left: 1053px;
+	width: 103px;
+	height: 159px;
+}
+
+
+#image_35_ek1 {
+	top: 984px;
+	left: 1688px;
+	width: 108px;
+	height: 117px;
+}
+
+
+#image_39_ek1 {
+	top: 1901px;
+	left: 1695px;
+	width: 108px;
+	height: 117px;
+}
+
+
+#image_38_ek1 {
+	top: 1569px;
+	left: 1638px;
+	width: 207px;
+	height: 93px;
+}
+
+
+#image_49 {
+	top: 3144px;
+	left: 1702px;
+	width: 94px;
+	height: 101px;
+}
+
+
+#image_52 {
+	top: 3744px;
+	left: 120px;
+	width: 1557px;
+	height: 1503px;
+}
+
+
+#image_53 {
+	top: 5283px;
+	left: 193px;
+	width: 1452px;
+	height: 1753px;
+}
+
+#sponsors_ek2 {
+	top: 13386px;
+	left: 27px;
+	width: 1866px;
+	height: 1017px;
+}
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1872px;
+	height: 1023px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_21_ek1 {
+	top: 413px;
+	left: 367px;
+	width: 218.67px;
+	height: 272px;
+}
+
+
+#image_24_ek1 {
+	top: 452px;
+	left: 1582px;
+	width: 152.58px;
+	height: 233px;
+}
+
+
+#image_25_ek1 {
+	top: 715px;
+	left: 130px;
+	width: 569.52px;
+	height: 161px;
+}
+
+
+#image_26_ek1 {
+	top: 715px;
+	left: 739px;
+	width: 574.38px;
+	height: 161px;
+}
+
+
+#image_27_ek1 {
+	top: 715px;
+	left: 1335px;
+	width: 399.44px;
+	height: 161px;
+}
+
+
+#image_20_ek1 {
+	top: 413px;
+	left: 130px;
+	width: 185.63px;
+	height: 272px;
+}
+
+
+#image_19_ek1 {
+	top: 143px;
+	left: 1582px;
+	width: 136.06px;
+	height: 228px;
+}
+
+
+#image_18_ek1 {
+	top: 147px;
+	left: 1185px;
+	width: 351.82px;
+	height: 229px;
+}
+
+
+#image_17_ek1 {
+	top: 143px;
+	left: 874px;
+	width: 241.02px;
+	height: 233px;
+}
+
+
+#image_16_ek1 {
+	top: 147px;
+	left: 367px;
+	width: 218.67px;
+	height: 224px;
+}
+
+
+#image_15_ek1 {
+	top: 143px;
+	left: 656px;
+	width: 136.06px;
+	height: 224px;
+}
+
+
+#image_13_ek1 {
+	top: 143px;
+	left: 147px;
+	width: 151.61px;
+	height: 228px;
+}
+
+
+#image_22_ek1 {
+	top: 473px;
+	left: 1185px;
+	width: 351.82px;
+	height: 212px;
+}
+
+
+#image_23_ek1 {
+	top: 443px;
+	left: 701px;
+	width: 380.98px;
+	height: 242px;
+}
+
+
+#sponsors_ek3 {
+	top: 21px;
+	left: 550px;
+	width: 780.48px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#04193E;
+}
+
+
+#image_54 {
+	top: 7036px;
+	left: 193px;
+	width: 1452px;
+	height: 1730px;
+}
+
+
+#image_55 {
+	top: 8766px;
+	left: 193px;
+	width: 1452px;
+	height: 1685px;
+}
+
+
+#image_56 {
+	top: 10451px;
+	left: 193px;
+	width: 1452px;
+	height: 2836px;
+}
+
+#barra_de_opciones_ek1 {
+	top: 1px;
+	left: -1px;
+	width: 1920px;
+	height: 103px;
+}
+
+#rectangle_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 100px;
+	border: 1px solid #000000;
+	background:rgba(4.42,25.16,61.62,1);
+}
+
+
+#_conisoft_editions___ek1 {
+	top: 36px;
+	left: 1543px;
+	width: 373px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_committes___ek1 {
+	top: 34px;
+	left: 1305px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_registration___ek1 {
+	top: 34px;
+	left: 1072px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_welcome___ek1 {
+	top: 34px;
+	left: 844px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_image_10_ek1 {
+	top: 5px;
+	left: 0px;
+	width: 95px;
+	height: 93px;
+}
+
+#page_registration_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 5207px;
+}
+
+#_bg__registration_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 5207px;
+	background:rgba(255,255,255,1);
+}
+
+
+#fondo_total_ek2 {
+	top: 75px;
+	left: 0px;
+	width: 1920px;
+	height: 5132px;
+	background:rgba(4,25,62,1);
+}
+
+
+#fondo_encabezado_ek2 {
+	top: 107px;
+	left: 30px;
+	width: 1861px;
+	height: 857px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#sponsors_ek4 {
+	top: 4303px;
+	left: 27px;
+	width: 1866px;
+	height: 1017px;
+}
+
+#rectangle_4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1872px;
+	height: 1023px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_21_ek2 {
+	top: 413px;
+	left: 367px;
+	width: 218.67px;
+	height: 272px;
+}
+
+
+#image_24_ek2 {
+	top: 452px;
+	left: 1582px;
+	width: 152.58px;
+	height: 233px;
+}
+
+
+#image_25_ek2 {
+	top: 715px;
+	left: 130px;
+	width: 569.52px;
+	height: 161px;
+}
+
+
+#image_26_ek2 {
+	top: 715px;
+	left: 739px;
+	width: 574.38px;
+	height: 161px;
+}
+
+
+#image_27_ek2 {
+	top: 715px;
+	left: 1335px;
+	width: 399.44px;
+	height: 161px;
+}
+
+
+#image_20_ek2 {
+	top: 413px;
+	left: 130px;
+	width: 185.63px;
+	height: 272px;
+}
+
+
+#image_19_ek2 {
+	top: 143px;
+	left: 1582px;
+	width: 136.06px;
+	height: 228px;
+}
+
+
+#image_18_ek2 {
+	top: 147px;
+	left: 1185px;
+	width: 351.82px;
+	height: 229px;
+}
+
+
+#image_17_ek2 {
+	top: 143px;
+	left: 874px;
+	width: 241.02px;
+	height: 233px;
+}
+
+
+#image_16_ek2 {
+	top: 147px;
+	left: 367px;
+	width: 218.67px;
+	height: 224px;
+}
+
+
+#image_15_ek2 {
+	top: 143px;
+	left: 656px;
+	width: 136.06px;
+	height: 224px;
+}
+
+
+#image_13_ek2 {
+	top: 143px;
+	left: 147px;
+	width: 151.61px;
+	height: 228px;
+}
+
+
+#image_22_ek2 {
+	top: 473px;
+	left: 1185px;
+	width: 351.82px;
+	height: 212px;
+}
+
+
+#image_23_ek2 {
+	top: 443px;
+	left: 701px;
+	width: 380.98px;
+	height: 242px;
+}
+
+
+#sponsors_ek5 {
+	top: 21px;
+	left: 550px;
+	width: 780.48px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#04193E;
+}
+
+
+#fondo_cuerpo_ek1 {
+	top: 983px;
+	left: 30px;
+	width: 1866px;
+	height: 3292px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#reminder_ek3 {
+	top: 1024px;
+	left: 109px;
+	width: 1701px;
+	height: 106px;
+}
+
+#cuadro_recordatorio_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#reminder_submission_deadline__jun_11__2022_ {
+	top: 15px;
+	left: 596px;
+	width: 522px;
+	height: 93.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	color:#C50000;
+}
+
+#template {
+	top: 2309px;
+	left: 96px;
+	width: 1727px;
+	height: 430px;
+}
+
+#banner_1 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#template__to_write_your_paper__please_use_the_official_template_ {
+	top: 9px;
+	left: 12px;
+	width: 1731px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_36_ek2 {
+	top: 141px;
+	left: 373px;
+	width: 164px;
+	height: 191px;
+}
+
+
+#image_37_ek2 {
+	top: 141px;
+	left: 802px;
+	width: 171px;
+	height: 191px;
+}
+
+
+#image_38_ek2 {
+	top: 141px;
+	left: 1197px;
+	width: 165px;
+	height: 198px;
+}
+
+
+#rectangle_6 {
+	top: 367px;
+	left: 335px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#download_ek1 {
+	top: 380px;
+	left: 383px;
+	width: 180px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6_ek1 {
+	top: 367px;
+	left: 774px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#download_ek3 {
+	top: 380px;
+	left: 822px;
+	width: 180px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6_ek2 {
+	top: 367px;
+	left: 1166px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#download_ek5 {
+	top: 380px;
+	left: 1214px;
+	width: 180px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#submission {
+	top: 1749px;
+	left: 112px;
+	width: 1727px;
+	height: 492px;
+}
+
+#banner_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#submission__send_your_papers_using_the_following_link_to_microsoft_cmt_ {
+	top: 9px;
+	left: 12px;
+	width: 1731px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+#link_cmt_1 {
+	top: 425px;
+	left: 221px;
+	width: 354px;
+	height: 67px;
+}
+
+#rectangle_6_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 354px;
+	height: 67px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#connisoft_tracks {
+	top: 12px;
+	left: 24px;
+	width: 339px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#image_34_ek2 {
+	top: 180px;
+	left: 271px;
+	width: 250px;
+	height: 244.65px;
+}
+
+#link_cmt_1_ek1 {
+	top: 425px;
+	left: 1169px;
+	width: 354px;
+	height: 67px;
+}
+
+#rectangle_6_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 354px;
+	height: 67px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#jiisic_track {
+	top: 12px;
+	left: 75px;
+	width: 213px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#image_34_ek3 {
+	top: 180px;
+	left: 1219px;
+	width: 250px;
+	height: 244.65px;
+}
+
+
+#image_35_ek2 {
+	top: 231px;
+	left: 575px;
+	width: 594px;
+	height: 142px;
+}
+
+
+#especifications__paper_length___a__scientific_papers__track_1__track_3__will_be_submitted_as_full_papers__from_8_pages_and_up_to_10_pages__and__b__works_in_progress__track_2__will_be_submitted_as_short_papers__from_6_pages_and_up_to_8__papers_must_be_original_works__not_have_been_published_before__nor_subjected_simultaneously_to_other_events__submitted_papers_will_be_evaluated_by_an_international_reviewers_committee_composed_of_renowned_researchers_and_professionals__which_can_be_consulted_on_the_web_site_of_the_conference__languages__due_to_the_joint_organization_of_conisoft_and_jiisic__the_organizing_committee_agreed_for_this_year__the_conisoft_will_accept_articles_in_english_and_for_the_jiisic_they_will_be_accepted_in_spanish {
+	top: 1145px;
+	left: 593px;
+	width: 1283px;
+	height: 611px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#registration_ek3 {
+	top: 2774px;
+	left: 104px;
+	width: 1727px;
+	height: 867px;
+}
+
+#banner_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#registration__requirements_and_prices_ {
+	top: 9px;
+	left: 12px;
+	width: 1731px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#authors_rates_latin_american_authors__in_mexican_pesos__1_paper___4_000_mxn_1_additional_paper___2_000_mxn___a_third_paper_must_paid_full_fee_non_latin_american_authors__rest_of_world__1_paper__usd__500_1_additional_paper__usd__350___a_third_paper_must_paid_full_fee_attendees_rates_general_public_latin_american_general_public___300_mxn_non_latin_american_general_public___25_usd {
+	top: 174px;
+	left: 86px;
+	width: 908px;
+	height: 715px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_41_ek2 {
+	top: 623px;
+	left: 994px;
+	width: 210px;
+	height: 217.17px;
+}
+
+
+#image_40_ek2 {
+	top: 373px;
+	left: 1243px;
+	width: 250px;
+	height: 250px;
+}
+
+
+#image_39_ek2 {
+	top: 135px;
+	left: 925px;
+	width: 250px;
+	height: 285px;
+}
+
+#encabezado_ek1 {
+	top: 136px;
+	left: 86px;
+	width: 1797px;
+	height: 799px;
+}
+
+#call_for_papers {
+	top: 0px;
+	left: -7px;
+	width: 453px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_28_ek2 {
+	top: 26px;
+	left: 1077px;
+	width: 720px;
+	height: 720px;
+}
+
+
+#participation_modalities__types_of_works__track_1__conisoft__scientific_papers_in_english__original_research__basic_and_experimental___track_2__conisoft__work_in_progress_in_english__papers_describing_works_that_are_at_an_early_stage_of_the_investigation__track_3__jiisic__scientific_papers_in_spanish__original_research__basic_and_experimental__ {
+	top: 103px;
+	left: 0px;
+	width: 890px;
+	height: 297px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#important_dates_paper_submission__jun_11__2022_notification_of_acceptance__july_8__2022_sending_final_version_in_easychair__august_14__2022_early___registration__august_27__2022_payment_deadline__august_21__2022_conisoft_2022__october_24_28__2022 {
+	top: 432px;
+	left: 291px;
+	width: 820px;
+	height: 285px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_29_ek1 {
+	top: 452px;
+	left: 23px;
+	width: 218px;
+	height: 222px;
+}
+
+
+#image_30_ek2 {
+	top: 709px;
+	left: 92px;
+	width: 80px;
+	height: 90px;
+}
+
+
+#_download_link_for_cfp {
+	top: 735px;
+	left: 288px;
+	width: 376px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6_ek5 {
+	top: 141px;
+	left: 877px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#link_to_send {
+	top: 153px;
+	left: 901px;
+	width: 212px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6_ek6 {
+	top: 240px;
+	left: 877px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#link_to_send_ek1 {
+	top: 252px;
+	left: 901px;
+	width: 212px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6_ek7 {
+	top: 336px;
+	left: 877px;
+	width: 228px;
+	height: 63px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(54,159,152,1);
+}
+
+
+#link_to_send_ek2 {
+	top: 348px;
+	left: 901px;
+	width: 212px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#image_31_ek2 {
+	top: 1175px;
+	left: 129px;
+	width: 425px;
+	height: 489px;
+}
+
+#payment {
+	top: 3641px;
+	left: 190px;
+	width: 1598px;
+	height: 591px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 1595px;
+	height: 572px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(222,225,236,1);
+}
+
+
+#payment_information__account_name__universidad_aut_noma_del_estado_de_baja_california_bank_name__santander_account_number__65500598900_clabe__iban_code___014028655005989002_switf_code__bmsxmxmmxxx__or_bmsxmxmm__bank_branch_number__442_bank_branch_name__banco_santander_city__tijuana_bank_address__av__venustiano_carranza_17124__otay_constituyentes_concept_of_payment__pago_de_inscripci_n_al_conisoft_2022__id_de_articulo___or__registration_payment_to_conisoft_2022__paper_id___ {
+	top: 21px;
+	left: -2px;
+	width: 1616px;
+	height: 592px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_42_ek2 {
+	top: 147px;
+	left: 86px;
+	width: 187px;
+	height: 190px;
+}
+
+
+#image_43_ek2 {
+	top: -43px;
+	left: 1325px;
+	width: 187px;
+	height: 190px;
+}
+
+#barra_de_opciones_ek2 {
+	top: -1px;
+	left: 0px;
+	width: 1920px;
+	height: 103px;
+}
+
+#rectangle_5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 100px;
+	border: 1px solid #000000;
+	background:rgba(4.42,25.16,61.62,1);
+}
+
+
+#_conisoft_editions___ek2 {
+	top: 36px;
+	left: 1543px;
+	width: 373px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_committes___ek2 {
+	top: 34px;
+	left: 1305px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_registration___ek2 {
+	top: 34px;
+	left: 1072px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_welcome___ek2 {
+	top: 34px;
+	left: 844px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_image_10_ek2 {
+	top: 5px;
+	left: 0px;
+	width: 95px;
+	height: 93px;
+}
+
+#page_welcome_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4743px;
+}
+
+#_bg__welcome_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 4743px;
+	background:rgba(255,255,255,1);
+}
+
+
+#fondo_total_ek3 {
+	top: 73px;
+	left: 0px;
+	width: 1920px;
+	height: 4670px;
+	background:rgba(4,25,62,1);
+}
+
+
+#fondo_encabezado_ek3 {
+	top: 105px;
+	left: 30px;
+	width: 1861px;
+	height: 857px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#sponsors_ek6 {
+	top: 3829px;
+	left: 30px;
+	width: 1866px;
+	height: 1017px;
+}
+
+#rectangle_4_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1872px;
+	height: 1023px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_21_ek3 {
+	top: 413px;
+	left: 367px;
+	width: 218.67px;
+	height: 272px;
+}
+
+
+#image_24_ek3 {
+	top: 452px;
+	left: 1582px;
+	width: 152.58px;
+	height: 233px;
+}
+
+
+#image_25_ek3 {
+	top: 715px;
+	left: 130px;
+	width: 569.52px;
+	height: 161px;
+}
+
+
+#image_26_ek3 {
+	top: 715px;
+	left: 739px;
+	width: 574.38px;
+	height: 161px;
+}
+
+
+#image_27_ek3 {
+	top: 715px;
+	left: 1335px;
+	width: 399.44px;
+	height: 161px;
+}
+
+
+#image_20_ek3 {
+	top: 413px;
+	left: 130px;
+	width: 185.63px;
+	height: 272px;
+}
+
+
+#image_19_ek3 {
+	top: 143px;
+	left: 1582px;
+	width: 136.06px;
+	height: 228px;
+}
+
+
+#image_18_ek3 {
+	top: 147px;
+	left: 1185px;
+	width: 351.82px;
+	height: 229px;
+}
+
+
+#image_17_ek3 {
+	top: 143px;
+	left: 874px;
+	width: 241.02px;
+	height: 233px;
+}
+
+
+#image_16_ek3 {
+	top: 147px;
+	left: 367px;
+	width: 218.67px;
+	height: 224px;
+}
+
+
+#image_15_ek3 {
+	top: 143px;
+	left: 656px;
+	width: 136.06px;
+	height: 224px;
+}
+
+
+#image_13_ek3 {
+	top: 143px;
+	left: 147px;
+	width: 151.61px;
+	height: 228px;
+}
+
+
+#image_22_ek3 {
+	top: 473px;
+	left: 1185px;
+	width: 351.82px;
+	height: 212px;
+}
+
+
+#image_23_ek3 {
+	top: 443px;
+	left: 701px;
+	width: 380.98px;
+	height: 242px;
+}
+
+
+#sponsors_ek7 {
+	top: 21px;
+	left: 550px;
+	width: 780.48px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	color:#04193E;
+}
+
+#imagen_encabezado {
+	top: -580px;
+	left: 926px;
+	width: 1266.81px;
+	height: 1402.32px;
+}
+
+#vector_1 {
+	top: 74px;
+	left: 87px;
+	width: 1091.94px;
+	height: 1253.36px;
+}
+
+#frame {
+	top: 719px;
+	left: 233px;
+	width: 584px;
+	height: 584px;
+}
+#group {
+	top: 0px;
+	left: -0.02px;
+	width: 584.01px;
+	height: 584.01px;
+}
+
+#vector {
+	top: 1px;
+	left: 2px;
+	width: 582.41px;
+	height: 580.32px;
+}
+
+#group_ek1 {
+	top: 0px;
+	left: 1px;
+	width: 243.64px;
+	height: 197.62px;
+}
+#group_ek2 {
+	top: 26px;
+	left: 0px;
+	width: 171.71px;
+	height: 171.13px;
+}
+#group_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 143.07px;
+	height: 87.25px;
+}
+
+#vector_ek1 {
+	top: 0px;
+	left: 1px;
+	width: 141.65px;
+	height: 72.26px;
+}
+
+
+#vector_ek2 {
+	top: 80px;
+	left: 0px;
+	width: 4.38px;
+	height: 7.72px;
+}
+
+#group_ek4 {
+	top: 80px;
+	left: 23px;
+	width: 148.83px;
+	height: 91.1px;
+}
+
+#vector_ek3 {
+	top: 61px;
+	left: 0px;
+	width: 6.7px;
+	height: 6.7px;
+}
+
+
+#vector_ek4 {
+	top: 15px;
+	left: 11px;
+	width: 136.95px;
+	height: 76.24px;
+}
+
+
+#vector_ek5 {
+	top: 0px;
+	left: 144px;
+	width: 4.35px;
+	height: 7.7px;
+}
+
+#group_ek5 {
+	top: 21px;
+	left: 21px;
+	width: 128.01px;
+	height: 127.59px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 128.01px;
+	height: 127.59px;
+}
+
+#group_ek6 {
+	top: 49px;
+	left: 49px;
+	width: 29.48px;
+	height: 29.37px;
+}
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 29.48px;
+	height: 29.37px;
+}
+
+#group_ek7 {
+	top: 28px;
+	left: 27px;
+	width: 71px;
+	height: 72.26px;
+}
+
+#vector_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 71px;
+	height: 72.26px;
+}
+
+#group_ek8 {
+	top: 0px;
+	left: 134px;
+	width: 109.43px;
+	height: 114.28px;
+}
+#group_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 97.24px;
+	height: 34.87px;
+}
+
+#vector_ek9 {
+	top: 18px;
+	left: 92px;
+	width: 4.79px;
+	height: 5.17px;
+}
+
+
+#vector_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 90.18px;
+	height: 34.87px;
+}
+
+#group_ek10 {
+	top: 54px;
+	left: 43px;
+	width: 66.88px;
+	height: 60.71px;
+}
+
+#vector_ek11 {
+	top: 10px;
+	left: 0px;
+	width: 66.31px;
+	height: 50.61px;
+}
+
+
+#vector_ek12 {
+	top: 0px;
+	left: 64px;
+	width: 2.7px;
+	height: 5.96px;
+}
+
+#group_ek11 {
+	top: 14px;
+	left: 9px;
+	width: 85.69px;
+	height: 85.41px;
+}
+
+#vector_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 85.69px;
+	height: 85.41px;
+}
+
+#group_ek12 {
+	top: 33px;
+	left: 33px;
+	width: 20.08px;
+	height: 20.01px;
+}
+
+#vector_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 20.08px;
+	height: 20.01px;
+}
+
+#group_ek13 {
+	top: 18px;
+	left: 18px;
+	width: 48.97px;
+	height: 49.82px;
+}
+
+#vector_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 48.97px;
+	height: 49.82px;
+}
+
+#group_ek14 {
+	top: 1px;
+	left: 209px;
+	width: 366.18px;
+	height: 580.09px;
+}
+
+#vector_ek16 {
+	top: 43px;
+	left: 171px;
+	width: 27.36px;
+	height: 537.01px;
+}
+
+#group_ek15 {
+	top: 0px;
+	left: 160px;
+	width: 49.42px;
+	height: 50.11px;
+}
+
+#vector_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 49.06px;
+	height: 50.11px;
+}
+
+
+#vector_ek18 {
+	top: 4px;
+	left: 0px;
+	width: 38.15px;
+	height: 38.97px;
+}
+
+#group_ek16 {
+	top: 36px;
+	left: 0px;
+	width: 264.51px;
+	height: 97.58px;
+}
+
+#vector_ek19 {
+	top: 2px;
+	left: 0px;
+	width: 264.33px;
+	height: 95.4px;
+}
+
+
+#vector_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 264.15px;
+	height: 93.69px;
+}
+
+#group_ek17 {
+	top: 215px;
+	left: 19px;
+	width: 256.88px;
+	height: 80.79px;
+}
+
+#vector_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 256.88px;
+	height: 80.69px;
+}
+
+
+#vector_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 256.38px;
+	height: 76.77px;
+}
+
+#group_ek18 {
+	top: 25px;
+	left: 42px;
+	width: 121.9px;
+	height: 35.18px;
+}
+
+#vector_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 121.81px;
+	height: 16.42px;
+}
+
+
+#vector_ek24 {
+	top: 19px;
+	left: 1px;
+	width: 120.82px;
+	height: 16px;
+}
+
+#group_ek19 {
+	top: 132px;
+	left: 86px;
+	width: 280.39px;
+	height: 81.54px;
+}
+
+#vector_ek25 {
+	top: 2px;
+	left: 0px;
+	width: 280.39px;
+	height: 79.34px;
+}
+
+
+#vector_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 280.15px;
+	height: 77.72px;
+}
+
+#group_ek20 {
+	top: 16px;
+	left: 114px;
+	width: 119.18px;
+	height: 35.77px;
+}
+
+#vector_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 119.04px;
+	height: 16.44px;
+}
+
+
+#vector_ek28 {
+	top: 20px;
+	left: 1px;
+	width: 118.07px;
+	height: 15.98px;
+}
+
+#group_ek21 {
+	top: 81px;
+	left: 176px;
+	width: 16.7px;
+	height: 16.64px;
+}
+
+#vector_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 16.7px;
+	height: 16.64px;
+}
+
+
+#vector_ek30 {
+	top: 2px;
+	left: 4px;
+	width: 10.26px;
+	height: 10.23px;
+}
+
+#group_ek22 {
+	top: 166px;
+	left: 175px;
+	width: 16.11px;
+	height: 16.06px;
+}
+
+#vector_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 16.11px;
+	height: 16.06px;
+}
+
+
+#vector_ek32 {
+	top: 2px;
+	left: 4px;
+	width: 9.88px;
+	height: 9.85px;
+}
+
+#group_ek23 {
+	top: 242px;
+	left: 175px;
+	width: 16.74px;
+	height: 16.69px;
+}
+
+#vector_ek33 {
+	top: 0px;
+	left: 0px;
+	width: 16.74px;
+	height: 16.69px;
+}
+
+
+#vector_ek34 {
+	top: 2px;
+	left: 4px;
+	width: 10.26px;
+	height: 10.23px;
+}
+
+#group_ek24 {
+	top: 53px;
+	left: 48px;
+	width: 112.67px;
+	height: 41.06px;
+}
+
+#vector_ek35 {
+	top: 0px;
+	left: 3px;
+	width: 109.48px;
+	height: 23.56px;
+}
+
+
+#vector_ek36 {
+	top: 18px;
+	left: 0px;
+	width: 108.57px;
+	height: 23.1px;
+}
+
+#group_ek25 {
+	top: 151px;
+	left: 0px;
+	width: 439.72px;
+	height: 432.9px;
+}
+#group_ek26 {
+	top: 61px;
+	left: 64px;
+	width: 347.33px;
+	height: 372.15px;
+}
+
+#vector_ek37 {
+	top: 93px;
+	left: 0px;
+	width: 245.86px;
+	height: 279.29px;
+}
+
+
+#vector_ek38 {
+	top: 0px;
+	left: 218px;
+	width: 129px;
+	height: 151.66px;
+}
+
+#group_ek27 {
+	top: 0px;
+	left: 396px;
+	width: 43.44px;
+	height: 72.7px;
+}
+
+#vector_ek39 {
+	top: 0px;
+	left: 0px;
+	width: 43.44px;
+	height: 72.7px;
+}
+
+
+#vector_ek40 {
+	top: 30px;
+	left: 8px;
+	width: 17.92px;
+	height: 30.9px;
+}
+
+
+#vector_ek41 {
+	top: 180px;
+	left: 2px;
+	width: 97.81px;
+	height: 109.27px;
+}
+
+
+#vector_ek42 {
+	top: 274px;
+	left: 0px;
+	width: 161.93px;
+	height: 83.15px;
+}
+
+
+#vector_ek43 {
+	top: 109px;
+	left: 126px;
+	width: 64.73px;
+	height: 68.96px;
+}
+
+#group_ek28 {
+	top: 22px;
+	left: 108px;
+	width: 106.12px;
+	height: 105.54px;
+}
+
+#vector_ek44 {
+	top: 32px;
+	left: 32px;
+	width: 74.09px;
+	height: 73.94px;
+}
+
+
+#vector_ek45 {
+	top: 0px;
+	left: 0px;
+	width: 98.18px;
+	height: 96.36px;
+}
+
+
+#vector_ek46 {
+	top: 68px;
+	left: 35px;
+	width: 22.77px;
+	height: 15.37px;
+}
+
+#group_ek29 {
+	top: 222px;
+	left: 138px;
+	width: 174.39px;
+	height: 149.26px;
+}
+#group_ek30 {
+	top: 0px;
+	left: 0px;
+	width: 174.39px;
+	height: 149.26px;
+}
+
+#vector_ek47 {
+	top: 0px;
+	left: 0px;
+	width: 174.39px;
+	height: 149.26px;
+}
+
+
+#vector_ek48 {
+	top: 66px;
+	left: 6px;
+	width: 50.73px;
+	height: 45.44px;
+}
+
+
+#vector_ek49 {
+	top: 32px;
+	left: 89px;
+	width: 22.33px;
+	height: 22.26px;
+}
+
+
+#vector_ek50 {
+	top: 9px;
+	left: 40px;
+	width: 108.83px;
+	height: 41.61px;
+}
+
+#group_ek31 {
+	top: 318px;
+	left: 380px;
+	width: 162.54px;
+	height: 264.3px;
+}
+
+#vector_ek51 {
+	top: 0px;
+	left: 0px;
+	width: 157.58px;
+	height: 262.59px;
+}
+
+
+#vector_ek52 {
+	top: 186px;
+	left: 30px;
+	width: 132.56px;
+	height: 78.55px;
+}
+
+
+#vector_ek53 {
+	top: 41px;
+	left: 9px;
+	width: 123.64px;
+	height: 209.43px;
+}
+
+
+#vector_ek54 {
+	top: 195px;
+	left: 33px;
+	width: 121.19px;
+	height: 60.96px;
+}
+
+#colaboradores {
+	top: 101.42px;
+	left: 1076px;
+	width: 815px;
+	height: 879.58px;
+}
+
+#image_9 {
+	top: 641px;
+	left: 0px;
+	width: 394.63px;
+	height: 126px;
+}
+
+
+#image_12 {
+	top: 599px;
+	left: 419px;
+	width: 395.7px;
+	height: 105.75px;
+}
+
+
+#jiisic_2022 {
+	top: 786px;
+	left: 197px;
+	width: 460.41px;
+	height: 139px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	color:#0B8457;
+}
+
+
+#image_11 {
+	top: 0px;
+	left: 596px;
+	width: 219px;
+	height: 57.92px;
+}
+
+
+#the_10th_international_conference_in_software_engineering_research_and_innovation__conisoft_2022__will_be_held_at_universidad_tecnol_gica_biling_e_internacional_y_sustentable_de_puebla__october_24_28__2022__the_purpose_of_the_conference_is_to_bring_together_practitioners_and_researchers_from_academy__industry__and_government_in_order_to_advance_the_state_of_the_art_in_software_engineering__as_well_as_generating_synergy_between_academy_and_industry__defining_a_collaboration_strategy_to_support_and_promote_the_development_of_the_software_industry_in_mexico_and_worldwide__papers_that_combine_theory_and_practice_are_especially_welcome_ {
+	top: 512px;
+	left: 62px;
+	width: 1052px;
+	height: 397px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#the_10th_international__conference_in_software__engineering_research__and_innovation__conisoft_22_ {
+	top: 140px;
+	left: 62px;
+	width: 1054px;
+	height: 385px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fondo_cuerpo_ek2 {
+	top: 981px;
+	left: 30px;
+	width: 1866px;
+	height: 2806px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#reminder_ek4 {
+	top: 1022px;
+	left: 109px;
+	width: 1701px;
+	height: 106px;
+}
+
+#cuadro_recordatorio_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1701px;
+	height: 106px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(222,225,236,1);
+}
+
+
+#reminder_regarding_the_covid_19_pandemic__to_safeguard_the_health_of_participants__conisoft_2022_conference_will_be_hybrid_ {
+	top: 15px;
+	left: 27px;
+	width: 1660px;
+	height: 93.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	color:#C50000;
+}
+
+
+#jiisic_the_ibero_american_conference_on_software_engineering_and_knowledge_engineering__jiisic__is_a_space_for_the_exchange_of_knowledge__experiences_and_good_practices_on_frontier_issues_related_to_computer_science__from_the_first_version_in_2001_until_today__jiisic_has_summoned_more_participants_every_year_and_has_become_a_meeting_of_high_value_for_scientists__teachers__technicians_and_students_from_all_the_countries_of_the_region__its_participants_form_and_expand_a_solid_network_of_contacts__broaden_the_perspectives_of_scientific_and_professional_cooperation_and_define_new_lines_of_technology_transfer_ {
+	top: 1218px;
+	left: 149px;
+	width: 1128px;
+	height: 456px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#topics {
+	top: 1680px;
+	left: 857px;
+	width: 206px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#core_themes_requirements_engineering_systems_modelling__languages__mechanisms_of_formalization_architecture_and_software_design_models_and_quality_systems_process_models_software_metrics_empirical_software_engineering_empirical_methods_statistical_methods_and_measurement_simulation_methods_missing_data_in_software_engineering_experimentation_in_software_engineering_human_factors_in_software_engineering_trends_in_software_engineering_construction_of_complex_systems__recommendation_systems_software_engineering_for_very_small_mobile_software_applications_and_context__and_very_large_software_ecosystems_modelling_and_knowledge_management_support_methodologies__agents_based_methodologies__natural_language_processing__machine_learning_software_engineering_for_cloud_computing__big_data__social_computing {
+	top: 1781px;
+	left: 149px;
+	width: 857px;
+	height: 1103px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#interaction_with_other_disciplines_user_centered_design__human_computer_interaction__usability_engineering_social_issues_in_software_engineering__psychology__sociology_formal_methods_theoretical_basis_for_software_engineering_formal_methods_for_software_engineering_experimental_evaluation_and_validation_the_split_between_industry_practice_and_academic_research_software_engineering_education__see__models_and_techniques_for_see_teaching_approaches_for_see_tools_for_see_strategies_and_instruments_for_assessment_see_industry_and_government_experiences_cases_in_industry_and_government_study_cases_in_industry_and_government {
+	top: 2862px;
+	left: 1039px;
+	width: 857px;
+	height: 1103px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_image_28_ek3 {
+	top: 1316px;
+	left: 1258px;
+	width: 587px;
+	height: 199px;
+}
+
+
+#image_30_ek3 {
+	top: 1774px;
+	left: 1066px;
+	width: 701px;
+	height: 494px;
+}
+
+
+#image_32_ek2 {
+	top: 3226px;
+	left: 159px;
+	width: 736px;
+	height: 465px;
+}
+
+
+#image_31_ek3 {
+	top: 2865px;
+	left: 174px;
+	width: 809px;
+	height: 512px;
+}
+
+
+#image_29_ek2 {
+	top: 2338px;
+	left: 1020px;
+	width: 763px;
+	height: 510px;
+}
+
+#barra_de_opciones_ek3 {
+	top: -3px;
+	left: 0px;
+	width: 1920px;
+	height: 103px;
+}
+
+#rectangle_5_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 100px;
+	border: 1px solid #000000;
+	background:rgba(4.42,25.16,61.62,1);
+}
+
+
+#_conisoft_editions___ek3 {
+	top: 36px;
+	left: 1543px;
+	width: 373px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_committes___ek3 {
+	top: 34px;
+	left: 1305px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_registration___ek3 {
+	top: 34px;
+	left: 1072px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_welcome___ek3 {
+	top: 34px;
+	left: 844px;
+	width: 308px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 32px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_image_10_ek3 {
+	top: 5px;
+	left: 0px;
+	width: 95px;
+	height: 93px;
+}
+
+
+
+/* Add your custom CSS here */
